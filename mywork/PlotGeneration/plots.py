@@ -16,7 +16,7 @@
 
 #!/usr/bin/env python
 # -*- coding:utf-8 -*-
-# @Author: Mora Ogando
+# @Author: Mora Ogando, slight edits by michael
 # @Date: Sunday, July 4th 2021, 1:28:46 pm
 """
 
