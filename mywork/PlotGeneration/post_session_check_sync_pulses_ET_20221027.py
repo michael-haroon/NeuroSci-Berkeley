@@ -5,17 +5,13 @@
 
 
 # -*- coding:utf-8 -*-
-# @Author: Niccolò Bonacchi
+# @Author: Niccolò Bonacchi, slight edits by Michael
 # @Date: Thursday, February 21st 2019, 7:13:37 pm
 # @Last Modified by: Niccolò Bonacchi
 # @Last Modified time: 21-02-2019 07:35:12.1212
 
 
 # In[3]:
-
-
-import os
-os.getcwd() 
 
 
 # In[2]:
