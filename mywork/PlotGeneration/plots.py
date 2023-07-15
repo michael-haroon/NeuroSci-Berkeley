@@ -16,8 +16,10 @@
 
 #!/usr/bin/env python
 # -*- coding:utf-8 -*-
-# @Author: Mora Ogando, slight edits by michael
+# @Author: Mora Ogando
 # @Date: Sunday, July 4th 2021, 1:28:46 pm
+# @Last Modified by: Michael Haroon
+# @Last Modified date: 15-06-2023
 """
 
 Raw Data Loader functions for PyBpod rig
